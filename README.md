@@ -1,6 +1,6 @@
 <!-- BANNER FUTURISTA NEON -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Victor%20Brutti&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FullStack%20PHP%20%7C%20Java%20Developer&descAlignY=60&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Victor%20Brutti&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=FullStack%20PHP%20%7C%20Go%20Developer&descAlignY=60&descAlign=50"/>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 ## 🧠 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,js,react,html,css,bootstrap,mysql,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,php,js,react,html,css,bootstrap,mysql,docker,git,github,vscode" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🌌 Atualmente focado em
 
 <p align="center">
-☕ Java + Spring Boot<br>
+☕ GoLang + Gin<br>
 🐘 PHP com arquitetura organizada<br>
 ⚛️ React para interfaces modernas<br>
 🐳 Docker para ambientes profissionais<br>
